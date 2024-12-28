@@ -1,0 +1,14 @@
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\bin\Debug\net9.0\my-assistant.exe
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\bin\Debug\net9.0\my-assistant.deps.json
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\bin\Debug\net9.0\my-assistant.runtimeconfig.json
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\bin\Debug\net9.0\my-assistant.dll
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\bin\Debug\net9.0\my-assistant.pdb
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.AssemblyInfoInputs.cache
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.AssemblyInfo.cs
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.csproj.CoreCompileInputs.cache
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.dll
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\refint\my-assistant.dll
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.pdb
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\my-assistant.genruntimeconfig.cache
+C:\MyFiles\Projects\UnityC#-Lesson1\my-assistant\obj\Debug\net9.0\ref\my-assistant.dll
